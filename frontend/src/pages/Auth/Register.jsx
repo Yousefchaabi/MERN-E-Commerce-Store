@@ -141,7 +141,7 @@ const Register = () => {
       </div>
 
       <img
-        src="https://images.pexels.com/photos/4464263/pexels-photo-4464263.jpeg?auto=compress&cs=tinysrgb&w=600"
+        src="https://images.pexels.com/photos/6273467/pexels-photo-6273467.jpeg"
         alt=""
         className="h-[63rem] w-[59%] xl:block md:hidden sm:hidden rounded-lg"
       />

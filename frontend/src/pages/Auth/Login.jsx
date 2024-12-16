@@ -97,7 +97,7 @@ const Login = () => {
         </div>
 
         <img
-          src="https://media.istockphoto.com/id/1213695543/photo/3d-rendering-of-a-kitchen-and-dining-area-in-a-living-room.jpg?s=1024x1024&w=is&k=20&c=TGkW0wvuFOTsjbtgHkyjazPw03glJENdWzegkQcjLC0="
+          src="https://images.pexels.com/photos/3705926/pexels-photo-3705926.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
           alt=""
           className="h-[63rem] w-[59%] xl:block md:hidden sm:hidden rounded-lg"
         />
